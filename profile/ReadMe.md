@@ -11,5 +11,7 @@ Roku currently contains 4 different projects:
 | Web App            | Javascript - React      | [RokuWebApp](https://github.com/RokuOrg/RokuWebApp)|
 | Auth Service       | Typescript              | [RokuAuthService](https://github.com/RokuOrg/RokuAuthService)|
 
-For any documentation about a specific project refer to the projects repository  
-For any documentation about the entire Roku project refer to the [ReadMe](https://github.com/RokuOrg/ReadMe)
+For any documentation about a specific project refer to the project's repository  
+For research done on any topic refer to the [Research](https://github.com/RokuOrg/Research) repository  
+# Documentation
+
