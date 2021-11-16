@@ -32,5 +32,5 @@ You can find the architecture of each individual service in it's repository.
 ## Database Model
 
 The image below shows the database model of Roku.  
-The green object is a part of the RokuAuth Service and the blue objects are a part of the project service.
+The green object is a part of the RokuAuth Service and the blue objects are a part of the project service.  
 ![Image](/Images/DatabaseModel.png)
